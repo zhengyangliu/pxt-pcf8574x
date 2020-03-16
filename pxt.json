@@ -1,0 +1,17 @@
+{
+    "name": "pcf8574x",
+    "version": "0.0.1",
+    "description": "A driver of PCF8574 and PCF8574A in MakeCode",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
